@@ -20,5 +20,5 @@ POST {{url}}/polls/27530a16-370f-42ea-9d58-336be4694d37/votes HTTP/1.1
 Content-Type: application/json
 
 {
-  "pollOptionId": "e966eb8f-c0a9-45d6-8622-f5324aab119b"
+  "pollOptionId": "889b35c8-7626-497b-894c-f33070603dc7"
 }
